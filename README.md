@@ -1,3 +1,5 @@
+#baseado na aula: https://www.youtube.com/watch?v=cSa-SMVMGsE
+
 # vuejs-cli
 
 ## Project setup
